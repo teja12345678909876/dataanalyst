@@ -14,7 +14,7 @@ print(f"You rolled: {result}")
 
 # Multiple rolls
 num_rolls = 5
-print(f"\nRolling the die {num_rolls} times:")
+print(f"\nRolling the dia {num_rolls} times:")
 for i in range(num_rolls):
     result = roll_die()
     print(f"Roll {i+1}: {result}")
